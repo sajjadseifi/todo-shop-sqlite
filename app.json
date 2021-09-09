@@ -1,0 +1,9 @@
+{
+  "name": "ShoppingList",
+  "displayName": "لیست خرید",
+  
+  "splash": {
+    "resizeMode": "contain",
+    "backgroundColor": "#000000"
+  }
+}
